@@ -1,8 +1,8 @@
-# B.R.A.I.N. — Bioplataforma de Reabilitação Assistida por Interface Neural
-Repositório destinado ao armazenamento e à disponibilização dos códigos-fonte desenvolvidos durante o Trabalho de Conclusão de Curso (TCC) do projeto B.R.A.I.N., realizado no Instituto Federal do Paraná (IFPR), Campus Campo Largo.
+# BRAIN — Bioplataforma de Reabilitação Assistida por Interface Neural
+Repositório destinado ao armazenamento e à disponibilização dos códigos-fonte desenvolvidos durante o Trabalho de Conclusão de Curso (TCC) do projeto BRAIN, realizado no Instituto Federal do Paraná (IFPR), Campus Campo Largo.
 
 ## 1. Sobre o projeto
-O B.R.A.I.N. (Bioplataforma de Reabilitação Assistida por Interface Neural) consiste no desenvolvimento de uma plataforma experimental de controle de uma cadeira de rodas em escala reduzida por meio de sinais de eletroencefalografia (EEG).
+O BRAIN (Bioplataforma de Reabilitação Assistida por Interface Neural) consiste no desenvolvimento de uma plataforma experimental de controle de uma cadeira de rodas em escala reduzida por meio de sinais de eletroencefalografia (EEG).
 
 A proposta utiliza sinais cerebrais associados aos estados de concentração e relaxamento para gerar comandos de movimentação, buscando explorar a aplicação de interfaces cérebro-computador em tecnologias assistivas.
 
@@ -67,7 +67,7 @@ Instituição: Instituto Federal do Paraná (IFPR)<br>
 Campus: Campo Largo<br>
 Curso: Técnico em Automação Industrial Integrado ao Ensino Médio<br>
 
-Projeto: B.R.A.I.N. — Bioplataforma de Reabilitação Assistida por Interface Neural.
+Projeto: BRAIN — Bioplataforma de Reabilitação Assistida por Interface Neural.
 
 **Integrantes:**
 Henrique dos Anjos Frasson, Roberto Massensini, Victor Bonacin Ambrosio

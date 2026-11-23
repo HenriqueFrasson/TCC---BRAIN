@@ -54,7 +54,7 @@ Reúne os códigos desenvolvidos em Python, divididos em três categorias:
 
 Contém o firmware desenvolvido para o microcontrolador ESP32, responsável pela comunicação Bluetooth e pelo controle dos motores da cadeira de rodas por meio de PWM.
 
-## 5. Finalidade do repositório
+## 5. Finalidade do repositório 
 Este repositório possui finalidade acadêmica e documental, reunindo os códigos-fonte desenvolvidos durante as diferentes etapas do projeto.
 
 Sua disponibilização busca facilitar a consulta, análise e compreensão das soluções implementadas, além de contribuir para a documentação e continuidade de pesquisas relacionadas à aplicação de interfaces cérebro-computador em tecnologias assistivas.
